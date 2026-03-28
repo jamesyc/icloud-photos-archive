@@ -1,0 +1,11 @@
+.DS_Store
+originals/
+transcoded/
+modified/
+imported/
+tools/
+delete-progress.txt
+reinit-manifest-match.csv
+removal-candidates.csv
+removal-candidates-remaining.csv
+*.tagprobe.mov
