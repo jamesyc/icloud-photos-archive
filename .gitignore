@@ -11,3 +11,4 @@ removal-candidates-remaining.csv
 *.tagprobe.mov
 
 __pycache__/
+big-videos.csv
