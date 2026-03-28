@@ -9,3 +9,5 @@ reinit-manifest-match.csv
 removal-candidates.csv
 removal-candidates-remaining.csv
 *.tagprobe.mov
+
+__pycache__/
